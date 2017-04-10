@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  mychart:
+  - apiVersion: v1
+    created: 2017-04-10T11:42:27.599242257+01:00
+    description: A Helm chart for Kubernetes
+    digest: 21538cd735ca44cf871e43b3b9e56ee25332bb7fbbb7fd961d549db1aa01af56
+    name: mychart
+    urls:
+    - https://soumentrivedi.github.io/test-helm-charts/mychart-0.1.0.tgz
+    version: 0.1.0
+generated: 2017-04-10T11:42:27.598849963+01:00
